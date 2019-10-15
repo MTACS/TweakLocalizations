@@ -1,1 +1,21 @@
-
+"ENABLED" = "Bekapcsolva";
+"ADD_LOCKSCREEN_BUTTON" = "Gomb hozzáadása a képernyőzárhoz";
+"USE_BUTTON_TINT_COLOR" = "Szín árnyalat hozzáadása a gombhoz";
+"TINT_COLOR" = "Szín árnyalat";
+"UNLOCK_METHOD" = "Feloldási módszer";
+"BUTTON_POSITION" = "Gomb pozíció";
+"LOCKSCREEN_BUTTON" = "Képernyőzár gomb";
+"MAIN_TWEAK_SETTINGS" = "Fő Tweak beállítások";
+"TAP_UNLOCK" = "Koppints";
+"LONG_PRESS_UNLOCK" = "Hosszú nyomás";
+"HAPTIC_FEEDBACK" = "Haptikus visszajelzés";
+"NO_VIBRATION" = "Egyik sem";
+"LOCKSCREEN_OPTIONS" = "Képernyőzár opciók";
+"SKIP_PASSCODE_SCREEN" = "Hagyd ki a respring jelszó képernyőt";
+"PAGE_DOTS" = "Rejtsd el a képernyőzár oldalt jelölő pöttyöket";
+"UNLOCK_TEXT" = "Rejtsd el a képernyőzár feloldó szöveget";
+"MORE_OPTIONS" = "Több";
+"APPLY_BUTTON" = "Alkalmaz";
+"RESET_SETTINGS" = "Beállítások alaphelyzetbe állítása";
+"CONTACT_SUPPORT" = "Lépj kapcsolatba &amp; Támogatás";
+"SATINE_LINK" = "Csekkolj rá Satiné";
